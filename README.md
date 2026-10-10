@@ -3,7 +3,7 @@ Proyecto correspondiente a la materia PTIA(principios y tecnologias de ia) para 
 
 ## Estructura del notebook
 
-El notebook `notebooks/entrenamiento.ipynb` se organiza en cinco bloques.
+El notebook `notebooks/fitqual_entrenamiento.ipynb` se organiza en cinco bloques
 
 ### 1. Diseño del problema y del modelo
 - Clasificación de 101 clases (Food-101).
