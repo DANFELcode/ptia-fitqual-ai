@@ -50,7 +50,9 @@ El notebook `notebooks/fitqual_entrenamiento.ipynb` se organiza en seis bloques.
 3. La descarga de Food-101 pesa unos 5 GB y el entrenamiento completo tarda cerca de 50 minutos.
 4. Las dependencias están en `requirements.txt`.
 
-Los pesos entrenados (`fitqual.weights.h5`) no están en el repositorio: [enlace a Drive](https://drive.google.com/file/d/1n5vZPXGBg4vaSWEnQdp8BSS-kyzTVOGy/view?usp=sharing).
+Los pesos entrenados (`fitqual.weights.h5`) no están en el repositorio:
+[`fitqual.weights.h5`](https://drive.google.com/file/d/1n5vZPXGBg4vaSWEnQdp8BSS-kyzTVOGy/view?usp=sharing).
+[`fitqual_history.json`](https://drive.google.com/file/d/1z44gHsOI_CniDgBHQzc0QqF-1Iqi_Qnx/view?usp=sharing).
 
 ## Limitaciones
 - Una clase por foto: con varios alimentos, el modelo propone uno solo.
